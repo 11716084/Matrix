@@ -1,15 +1,15 @@
 # Matrix
 Program that does the following:
 
-Prints a menu consisting of 4 options. The example shows what the menu should look like.
+1.Prints a menu consisting of 4 options. The example shows what the menu should look like.
 
-Reads the user's choice.
+2.Reads the user's choice.
 
-Reads all data (matrices, constants) needed to perform the chosen operation. The example shows the input format in each case.
+3.Reads all data (matrices, constants) needed to perform the chosen operation. The example shows the input format in each case.
 
-Calculates the result and outputs it. The example shows how your output should look like.
+4.Calculates the result and outputs it. The example shows how your output should look like.
 
-Repeats all these steps.
+5.Repeats all these steps.
 
 Example
 
